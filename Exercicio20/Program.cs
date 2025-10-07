@@ -10,6 +10,11 @@ namespace Exercicio20
     {
         static void Main(string[] args)
         {
-        }
+            int num = 1;
+            while (num <= 25)
+            {
+                Console.WriteLine($"{num}");
+                num++;
+            }
     }
 }
