@@ -20,6 +20,7 @@ namespace Ecercicio6
             Console.WriteLine($"maiusculas {frase.ToLower()}");
             Console.WriteLine($"Os Tres Primeiros Caracteres: {frase.Substring(0, 3)}");
             Console.WriteLine($"Posicao do espaco: {frase.IndexOf(' ')}");
+            
 
 
         }
